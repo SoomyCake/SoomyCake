@@ -1,16 +1,20 @@
-## Hi there 👋
+# Soomy Cake — Version 1
 
-<!--
-**SoomyCake/SoomyCake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Open `index.html` in a browser to view the working prototype.
 
-Here are some ideas to get you started:
+Included:
+- Responsive homepage
+- Product catalogue using your current Soomy Cake products/prices
+- Add-to-basket functionality
+- Persistent basket using localStorage
+- Basket drawer and total calculation
+- Sections for custom cakes, reviews and contact
+- Mobile responsive design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Next production steps:
+1. Replace placeholder cake illustrations with your real cake photos.
+2. Add product customisation (size, flavour, colour, message).
+3. Add delivery postcode checker and delivery slots.
+4. Connect Stripe Checkout.
+5. Add an admin dashboard for orders.
+6. Add real domain/email/Instagram links.
